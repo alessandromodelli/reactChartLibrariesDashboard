@@ -1,0 +1,46 @@
+.ContainerComboSelect {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-evenly; */
+    width: 100%;
+    /* margin: 4%; */
+    gap: 0.5vh;
+    flex: 1;
+}
+
+.couple {
+    display: flex;
+    flex-direction: column;
+    gap: 1vh;
+    width: 100%;
+    flex: 1;
+}
+
+.icon_container {
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F2F6F6;
+    border-radius: 50%;
+    padding: 2.5vh;
+    width: 50%; */
+    display: flex;
+    /* flex: 0.3; */
+
+}
+
+.label {
+    font-size: calc(6px + 1vmin);
+    font-weight: bold;
+}
+
+.ComboSelect {
+    /* display: flex; */
+    /* width: 20%; */
+    /* flex: 1; */
+}
+
+.icon {
+    /* width: 100%; */
+    width: 70px;
+}

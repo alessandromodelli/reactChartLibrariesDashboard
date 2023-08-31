@@ -1,0 +1,8 @@
+.dataInput {
+    border: none;
+    background-color: #F2F6F6;
+    border-radius: 0.5em;
+    padding: 1vh;
+    font-size: calc(3px + 1vmin);
+    flex: 0.5;
+}
